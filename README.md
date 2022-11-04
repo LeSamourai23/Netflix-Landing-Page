@@ -1,2 +1,2 @@
-# Netflix_Clone
-Netflix Clone made purely from HTML and CSS.
+# Netflix-Landing_Page
+Netflix landing page made purely from HTML and CSS.
